@@ -166,10 +166,6 @@ jupyter notebook
 
 ---
 
-## 📸 Project Preview  
-
-> <i>Add screenshots of your dashboards, visualizations, or model outputs here</i>  
-
 ---
 
 ## 🏆 Key Achievements  
