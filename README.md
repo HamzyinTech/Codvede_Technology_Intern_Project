@@ -20,7 +20,7 @@ The internship is structured to provide **hands-on, project-based experience** a
 - Data Visualization  
 - Real-world problem solving  
 
-Codveda’s internship programs emphasize **practical learning, mentorship, and portfolio development**, helping interns build industry-ready skills. :contentReference[oaicite:0]{index=0}  
+Codveda’s internship programs emphasize **practical learning, mentorship, and portfolio development**, helping interns build industry-ready skills.   
 
 ---
 
